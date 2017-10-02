@@ -1,0 +1,19 @@
+{
+  "name": "http-cache",
+  "version": "1.0.0",
+  "description": "a lab test how the http-cache works between http1.0 and http1.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lab",
+    "http-cache"
+  ],
+  "author": "feikerwu@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "etag": "^1.8.1",
+    "mime": "^2.0.3"
+  }
+}
